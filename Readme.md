@@ -55,13 +55,22 @@ _pass : client-parola_
 
 **10. edit configurations and choose `server` profile**
 
+---
+> ! To run both apps in the same time you can clone the repo
+> in 2 different directories, open each from intellij and choose
+> different profiles
+
 **11. run**
+
+_server runs on port 8090_
 
 **12. edit configurations and choose `client` profile**
 
 **13. run**
 
+_client runs on port 8081_
+
 **14. expected output**
 
 
-
+![img.png](img.png)
